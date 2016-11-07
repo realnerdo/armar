@@ -1,0 +1,22 @@
+{
+  "name": "armar",
+  "description": "Grupo Armar",
+  "main": "",
+  "authors": [
+    "Asael Chavez"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/realnerdo/armar",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gentelella": "^1.3.0"
+  }
+}
